@@ -3,6 +3,32 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+.container {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border-radius: 20px;
+}
+
+.percentage {
+  font-size: 90px !important;
+  align-self: center;
+  color: white;
+}
+
+.health {
+  border-radius: 200px;
+  background-color: #a6e1ec;
+  width: 400px;
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
 a {
   color: #00B7FF;
 }
