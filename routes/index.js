@@ -33,7 +33,7 @@ setInterval(() => {
       if (success) {
         successCounter++;
       }
-      if (counter === 60) {
+      if (counter === 20) {
         percentage = (successCounter / counter) * 100;
         counter = 0;
         successCounter = 0;
