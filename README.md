@@ -1,5 +1,7 @@
 # PAID - Patrick's Awesome Internet Dashboard
 
+![PAID screenshot](https://raw.githubusercontent.com/ppati000/PAID/master/paid.png)
+
 This is a small project that shows your internet connection's current health.
 
 PAID is free and was created with ~~love~~ frustration caused by an unstable internet connection. Released under the MIT License.
